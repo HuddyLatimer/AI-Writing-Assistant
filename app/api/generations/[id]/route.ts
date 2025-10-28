@@ -12,7 +12,7 @@ export async function PATCH(
 
     const { data, error } = await supabase
       .from('generations')
-      .update({ is_bookmarked: is_bookmarked })
+      .update({ is_bookmarked: is_bookmarked } as any)
       .eq('id', id)
       .select()
       .single()
