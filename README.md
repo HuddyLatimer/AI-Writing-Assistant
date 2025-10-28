@@ -252,4 +252,4 @@ This project is licensed under the MIT License.
 
 ---
 
-Built with ❤️ using Next.js 16 and Google Gemini 2.0 Flash
+Built using Next.js 16 and Google Gemini 2.0 Flash
