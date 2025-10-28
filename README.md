@@ -9,9 +9,11 @@ A powerful, production-ready AI writing web application with real-time streaming
 ![Supabase](https://img.shields.io/badge/Supabase-Database-3ECF8E)
 ![License](https://img.shields.io/badge/license-MIT-green)
 
-## 🎥 Demo
+## 🌐 Live Demo
 
-> **Note:** Add a demo GIF here showing the streaming AI response in action
+**🚀 Try it now:** [https://aiemails.netlify.app/](https://aiemails.netlify.app/)
+
+**📦 Repository:** [https://github.com/HuddyLatimer/AI-Writing-Assistant](https://github.com/HuddyLatimer/AI-Writing-Assistant)
 
 ## ✨ Features
 
@@ -75,7 +77,7 @@ A powerful, production-ready AI writing web application with real-time streaming
 
 1. **Clone the repository**
    ```bash
-   git clone <your-repo-url>
+   git clone https://github.com/HuddyLatimer/AI-Writing-Assistant.git
    cd ai-writing-assistant
    ```
 
@@ -247,10 +249,6 @@ This project is licensed under the MIT License.
 - [Vercel](https://vercel.com) for the AI SDK
 - [shadcn/ui](https://ui.shadcn.com) for beautiful components
 - [Supabase](https://supabase.com) for the database backend
-
-## 🌐 Live Demo
-
-> **Note:** Add your deployed Vercel URL here
 
 ---
 
